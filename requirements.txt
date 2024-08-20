@@ -1,0 +1,4 @@
+selenium==4.12.0
+python-docx==0.8.11
+docx2pdf==0.1.8
+schedule==1.2.0
